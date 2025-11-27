@@ -1,6 +1,6 @@
 # Lab9Web - Pratikum PHP Modular
 
-Nama: Marsya Nabila Putro
+Nama: Marsya Nabila Putri
 
 NIM: 312410338
 
