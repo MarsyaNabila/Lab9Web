@@ -172,6 +172,6 @@ penggunaan Routing agar project menjadi lebih modular.
 <img width="1129" height="940" alt="image" src="https://github.com/user-attachments/assets/0e3ff2b1-a899-4cc8-8098-6489864acead" />
 
 
-## Hapus Barng
+## Hapus Barang
 
 <img width="1123" height="1030" alt="image" src="https://github.com/user-attachments/assets/a15faf2f-dbda-4f01-ae04-9805ef0a04b1" />
